@@ -43,7 +43,7 @@ export const centros=[
     "TEL1": 945285387,
     "TFAX": 945410252,
     "EMAIL": "010108aa@hezkuntza.net",
-    "PAGINA": "http://www.mendikoi.net",
+    "PAGINA": "https://www.arkaute.net/es/",
     "COOR_X": 530508.782819266,
     "COOR_Y": 4744725.194908354
   },
@@ -67,7 +67,7 @@ export const centros=[
     "TEL1": 945187009,
     "TFAX": 945187010,
     "EMAIL": "010133aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://fbaraibar.hezkuntza.net",
     "COOR_X": 526393.496323059,
     "COOR_Y": 4743017.002605956
   },
@@ -187,7 +187,7 @@ export const centros=[
     "TEL1": 946720505,
     "TFAX": 946721057,
     "EMAIL": "010201aa@hezkuntza.net",
-    "PAGINA": "http://www.cmfp-llodio.com/",
+    "PAGINA": "https://www.laudioinstitutua.net",
     "COOR_X": 503241.490867843,
     "COOR_Y": 4776817.252662808
   },
@@ -211,7 +211,7 @@ export const centros=[
     "TEL1": 945230780,
     "TFAX": 945232647,
     "EMAIL": "colegiobermar@gmail.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.colegiobermar.com/ ",
     "COOR_X": 526607.410015788,
     "COOR_Y": 4743299.555093215
   },
@@ -283,7 +283,7 @@ export const centros=[
     "TEL1": 945258025,
     "TFAX": 945281902,
     "EMAIL": "010256aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://gamarra.eus/",
     "COOR_X": 527656.63598155,
     "COOR_Y": 4747444.041494994
   },
@@ -307,7 +307,7 @@ export const centros=[
     "TEL1": 945187055,
     "TFAX": null,
     "EMAIL": "010257aa@hezkuntza.net",
-    "PAGINA": "http://www.koldomitxelena.eus",
+    "PAGINA": "http://www.koldomitxelena.com",
     "COOR_X": 527034.561242012,
     "COOR_Y": 4744781.683410282
   },
@@ -331,7 +331,7 @@ export const centros=[
     "TEL1": 945187057,
     "TFAX": 945187058,
     "EMAIL": "010266aa@hezkuntza.net",
-    "PAGINA": "http://www.iesmigueldeunamuno.net",
+    "PAGINA": "https://migueldeunamunovitoria.hezkuntza.net",
     "COOR_X": 525683.7022919,
     "COOR_Y": 4744613.097725411
   },
@@ -355,7 +355,7 @@ export const centros=[
     "TEL1": 945001200,
     "TFAX": 945001201,
     "EMAIL": "010296aa@hezkuntza.net",
-    "PAGINA": "http://www.instc.com",
+    "PAGINA": "https://eraiken.com",
     "COOR_X": 523988.397933853,
     "COOR_Y": 4744662.407688511
   },
@@ -379,7 +379,7 @@ export const centros=[
     "TEL1": 945393000,
     "TFAX": 945393682,
     "EMAIL": "010319aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://zaraobe.net/",
     "COOR_X": 499542.306166503,
     "COOR_Y": 4766361.450911016
   },
@@ -403,7 +403,7 @@ export const centros=[
     "TEL1": 945187059,
     "TFAX": 945187061,
     "EMAIL": "010329aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://mendebaldea.hezkuntza.net/eu/",
     "COOR_X": 525496.249513518,
     "COOR_Y": 4745391.479288095
   },
@@ -427,7 +427,7 @@ export const centros=[
     "TEL1": 945187062,
     "TFAX": 945187063,
     "EMAIL": "010330aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ekialdea.hezkuntza.net/es/hasi",
     "COOR_X": 527372.492432952,
     "COOR_Y": 4743387.58717454
   },
@@ -451,7 +451,7 @@ export const centros=[
     "TEL1": 945187066,
     "TFAX": null,
     "EMAIL": "010335aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://badaiabhi.hezkuntza.net/es/",
     "COOR_X": 516263.237475877,
     "COOR_Y": 4740811.711486586
   },
@@ -475,7 +475,7 @@ export const centros=[
     "TEL1": 945187026,
     "TFAX": 945187027,
     "EMAIL": "010349aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://samaniegolaguardia.hezkuntza.net/es/",
     "COOR_X": 534115.473885137,
     "COOR_Y": 4711560.975389325
   },
@@ -523,7 +523,7 @@ export const centros=[
     "TEL1": 945187098,
     "TFAX": 945187109,
     "EMAIL": "010512aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://lakuabhi.hezkuntza.net/",
     "COOR_X": 524711.146186402,
     "COOR_Y": 4745720.30235711
   },
@@ -547,7 +547,7 @@ export const centros=[
     "TEL1": 945187155,
     "TFAX": null,
     "EMAIL": "010513aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.zabalganabhi.eus/",
     "COOR_X": 523966.101170877,
     "COOR_Y": 4743615.930695876
   },
@@ -571,7 +571,7 @@ export const centros=[
     "TEL1": 945233312,
     "TFAX": 0,
     "EMAIL": "010618aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ived.eus/",
     "COOR_X": 526340.896082295,
     "COOR_Y": 4742665.804091399
   },
@@ -595,7 +595,7 @@ export const centros=[
     "TEL1": 945000333,
     "TFAX": 945010139,
     "EMAIL": "info@egibide.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.egibide.org/",
     "COOR_X": 526769.168743343,
     "COOR_Y": 4742985.848947194
   },
@@ -691,7 +691,7 @@ export const centros=[
     "TEL1": 943899496,
     "TFAX": 943899497,
     "EMAIL": "012071aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://talaiabhi.net/",
     "COOR_X": 597113.163589547,
     "COOR_Y": 4802857.992145596
   },
@@ -715,7 +715,7 @@ export const centros=[
     "TEL1": 943617547,
     "TFAX": 943612550,
     "EMAIL": "012108aa@hezkuntza.net",
-    "PAGINA": "http://www.plaiaundi.net",
+    "PAGINA": "https://www.plaiaundi.hezkuntza.net",
     "COOR_X": 597505.781219859,
     "COOR_Y": 4799912.871616363
   },
@@ -739,7 +739,7 @@ export const centros=[
     "TEL1": 943899213,
     "TFAX": 943899220,
     "EMAIL": "012117aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.olazabalbhi.net/es/",
     "COOR_X": 554066.417847094,
     "COOR_Y": 4766824.586641078
   },
@@ -763,7 +763,7 @@ export const centros=[
     "TEL1": 943899224,
     "TFAX": 943899242,
     "EMAIL": "012132aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://mutrikubhi.hezkuntza.net/eu/hasiera",
     "COOR_X": 549429.589945007,
     "COOR_Y": 4794979.675754113
   },
@@ -811,7 +811,7 @@ export const centros=[
     "TEL1": 943899249,
     "TFAX": 943899250,
     "EMAIL": "012224aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://altzabhi.hezkuntza.net/eu",
     "COOR_X": 586556.841967588,
     "COOR_Y": 4796248.507487083
   },
@@ -883,7 +883,7 @@ export const centros=[
     "TEL1": 943899389,
     "TFAX": 943899391,
     "EMAIL": "012282aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://oianguren.hezkuntza.net/eu/inicio",
     "COOR_X": 567581.851398978,
     "COOR_Y": 4767049.580844158
   },
@@ -931,7 +931,7 @@ export const centros=[
     "TEL1": 943134223,
     "TFAX": 943894196,
     "EMAIL": "012291aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.montealbertia.eus",
     "COOR_X": 566594.403298682,
     "COOR_Y": 4792568.206601686
   },
@@ -955,7 +955,7 @@ export const centros=[
     "TEL1": 943899216,
     "TFAX": null,
     "EMAIL": "012292aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.lizardi.hezkuntza.net/",
     "COOR_X": 567278.239411998,
     "COOR_Y": 4792325.755951814
   },
@@ -979,7 +979,7 @@ export const centros=[
     "TEL1": 943899253,
     "TFAX": 943899255,
     "EMAIL": "012298aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://zumaiabhi.hezkuntza.net/es/",
     "COOR_X": 560348.481340663,
     "COOR_Y": 4793476.061810384
   },
@@ -1003,7 +1003,7 @@ export const centros=[
     "TEL1": 943772025,
     "TFAX": 943714108,
     "EMAIL": "arizmendi@arizmendi.eus",
-    "PAGINA": " ",
+    "PAGINA": "https://arizmendi.eus/",
     "COOR_X": 539875.278584371,
     "COOR_Y": 4763630.066876337
   },
@@ -1027,7 +1027,7 @@ export const centros=[
     "TEL1": 943272587,
     "TFAX": 943219974,
     "EMAIL": "zurriola@ikastola.net",
-    "PAGINA": " ",
+    "PAGINA": "https://fpgradosuperior.com/jm-barandiaran-lizeoa-20007321",
     "COOR_X": 583798.12879159,
     "COOR_Y": 4797331.996945938
   },
@@ -1051,7 +1051,7 @@ export const centros=[
     "TEL1": 943594190,
     "TFAX": 943591562,
     "EMAIL": "secretaria@escivi.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.escivi.com/",
     "COOR_X": 579633.27652532,
     "COOR_Y": 4786004.172691804
   },
@@ -1075,7 +1075,7 @@ export const centros=[
     "TEL1": 943121698,
     "TFAX": 943121698,
     "EMAIL": "azitain@lasalle.es",
-    "PAGINA": " ",
+    "PAGINA": "http://www.lasalleeibar.eus/",
     "COOR_X": 544528.029211794,
     "COOR_Y": 4782137.819676779
   },
@@ -1123,7 +1123,7 @@ export const centros=[
     "TEL1": 943794700,
     "TFAX": 943791536,
     "EMAIL": "info.mgep@mondragon.edu",
-    "PAGINA": " ",
+    "PAGINA": "https://www.mondragon.edu/es/escuela-politecnica-superior",
     "COOR_X": 540986.331890665,
     "COOR_Y": 4767818.254382882
   },
@@ -1219,7 +1219,7 @@ export const centros=[
     "TEL1": 943275819,
     "TFAX": 943293878,
     "EMAIL": "seim@centroseim.com",
-    "PAGINA": " ",
+    "PAGINA": "https://centroseim.com/",
     "COOR_X": 583043.617546813,
     "COOR_Y": 4797046.145130249
   },
@@ -1246,30 +1246,6 @@ export const centros=[
     "PAGINA": "http://www.nazaretzentroa.com",
     "COOR_X": 583372.733930201,
     "COOR_Y": 4796857.503527701
-  },
-  {
-    "CCEN": 12491,
-    "NOM": "C.D.E.A.",
-    "NOME": "C.D.E.A.",
-    "DGENRC": "CPES",
-    "DGENRE": "BHIP",
-    "GENR": "31D0",
-    "MUNI": 69,
-    "DMUNIC": "DONOSTIA / SAN SEBASTIÁN",
-    "DMUNIE": "DONOSTIA / SAN SEBASTIÁN",
-    "DTERRC": "GIPUZKOA / GUIPÚZCOA",
-    "DTERRE": "GIPUZKOA / GUIPÚZCOA",
-    "DEPE": "31",
-    "DTITUC": "PRIVADA",
-    "DTITUE": "PRIBATUA",
-    "DOMI": "BERIO IBILTOKIA 50",
-    "CPOS": 20018,
-    "TEL1": 943316900,
-    "TFAX": 943316482,
-    "EMAIL": "director@pas.cebanc.com",
-    "PAGINA": " ",
-    "COOR_X": 579751.183852909,
-    "COOR_Y": 4795107.539727772
   },
   {
     "CCEN": 12497,
@@ -1339,7 +1315,7 @@ export const centros=[
     "TEL1": 943292948,
     "TFAX": 943327244,
     "EMAIL": "direccion@cmidonostia.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.mariainmaculadabilbao.org/",
     "COOR_X": 583555.552544089,
     "COOR_Y": 4797133.147421183
   },
@@ -1363,7 +1339,7 @@ export const centros=[
     "TEL1": 943287423,
     "TFAX": 943290917,
     "EMAIL": "ortzadar@ortzadar.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ortzadar.net/",
     "COOR_X": 584266.682402025,
     "COOR_Y": 4797199.733867705
   },
@@ -1483,7 +1459,7 @@ export const centros=[
     "TEL1": 943880062,
     "TFAX": 943888351,
     "EMAIL": "bulegoa@goierrieskola.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.goierrieskola.eus/es/",
     "COOR_X": 566562.376439436,
     "COOR_Y": 4766318.739604779
   },
@@ -1507,7 +1483,7 @@ export const centros=[
     "TEL1": 943725477,
     "TFAX": 943726003,
     "EMAIL": "dtor.ugle@ugleskola.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ugleskola.eus/",
     "COOR_X": 556173.29703149,
     "COOR_Y": 4770944.038138639
   },
@@ -1627,7 +1603,7 @@ export const centros=[
     "TEL1": 943744132,
     "TFAX": 943744153,
     "EMAIL": "012763aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.imh.eus/es",
     "COOR_X": 547918.308094115,
     "COOR_Y": 4784409.737234531
   },
@@ -1651,7 +1627,7 @@ export const centros=[
     "TEL1": 943899513,
     "TFAX": 943899515,
     "EMAIL": "012945aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.kurtzebarribhi.hezkuntza.net ",
     "COOR_X": 540449.708835567,
     "COOR_Y": 4764926.652959989
   },
@@ -1675,7 +1651,7 @@ export const centros=[
     "TEL1": 943899261,
     "TFAX": 943899264,
     "EMAIL": "012946aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://sites.google.com/soraluzebhi.eus/soraluzebhi/hasiera",
     "COOR_X": 547777.213452366,
     "COOR_Y": 4780244.375081952
   },
@@ -1699,7 +1675,7 @@ export const centros=[
     "TEL1": 943899265,
     "TFAX": 943899266,
     "EMAIL": "012947aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.mendatabhi.hezkuntza.net/",
     "COOR_X": 552520.726087956,
     "COOR_Y": 4793444.408253374
   },
@@ -1723,7 +1699,7 @@ export const centros=[
     "TEL1": 943650078,
     "TFAX": 943654625,
     "EMAIL": "012951aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.aralar-bhi.net/",
     "COOR_X": 573522.817297396,
     "COOR_Y": 4772231.336112859
   },
@@ -1747,7 +1723,7 @@ export const centros=[
     "TEL1": 943693733,
     "TFAX": 943693733,
     "EMAIL": "012952aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://erniobea.hezkuntza.net/eu/hasiera",
     "COOR_X": 577361.348521495,
     "COOR_Y": 4782459.254249701
   },
@@ -1771,7 +1747,7 @@ export const centros=[
     "TEL1": 943899425,
     "TFAX": 943899427,
     "EMAIL": "012957aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.egape.eus/",
     "COOR_X": 581958.72830447,
     "COOR_Y": 4788727.67833011
   },
@@ -1819,7 +1795,7 @@ export const centros=[
     "TEL1": 943899280,
     "TFAX": null,
     "EMAIL": "012960aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://arantzazukoamabhi.hezkuntza.net/es/",
     "COOR_X": 584775.87153315,
     "COOR_Y": 4794185.707364083
   },
@@ -1843,7 +1819,7 @@ export const centros=[
     "TEL1": 943899281,
     "TFAX": 943899282,
     "EMAIL": "012962aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://lezobhi.eus/",
     "COOR_X": 589402.796176238,
     "COOR_Y": 4796675.360602367
   },
@@ -1867,7 +1843,7 @@ export const centros=[
     "TEL1": 943899283,
     "TFAX": null,
     "EMAIL": "012963aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.elizalde.eus/",
     "COOR_X": 592391.568408096,
     "COOR_Y": 4794560.331110503
   },
@@ -1891,7 +1867,7 @@ export const centros=[
     "TEL1": 943899413,
     "TFAX": null,
     "EMAIL": "012964aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://bizarainikastola.hezkuntza.net/es/-/bizarain_bhi",
     "COOR_X": 588171.922506478,
     "COOR_Y": 4796396.697323471
   },
@@ -1915,7 +1891,7 @@ export const centros=[
     "TEL1": 943899441,
     "TFAX": 943899442,
     "EMAIL": "012965aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.cristobalgamonbhi.hezkuntza.net/web/guest",
     "COOR_X": 588244.139610823,
     "COOR_Y": 4796323.132297419
   },
@@ -1963,7 +1939,7 @@ export const centros=[
     "TEL1": 943899285,
     "TFAX": 943899286,
     "EMAIL": "012967aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.hirubide.eus/",
     "COOR_X": 596492.24326821,
     "COOR_Y": 4799517.302133387
   },
@@ -2011,7 +1987,7 @@ export const centros=[
     "TEL1": 943899287,
     "TFAX": null,
     "EMAIL": "012969aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.eguzkitzabhi.hezkuntza.net/web/guest",
     "COOR_X": 598089.916829791,
     "COOR_Y": 4798416.61617483
   },
@@ -2035,7 +2011,7 @@ export const centros=[
     "TEL1": 943899289,
     "TFAX": 943899291,
     "EMAIL": "012980aa@hezkuntza.net",
-    "PAGINA": "http://www.orixe.net",
+    "PAGINA": "https://orixebhi.hezkuntza.net",
     "COOR_X": 575677.21728247,
     "COOR_Y": 4777790.924474726
   },
@@ -2059,7 +2035,7 @@ export const centros=[
     "TEL1": 943899444,
     "TFAX": 943899445,
     "EMAIL": "012981aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ipintzabhi.hezkuntza.net/eu/inicio1",
     "COOR_X": 547055.66084724,
     "COOR_Y": 4774339.027098455
   },
@@ -2107,7 +2083,7 @@ export const centros=[
     "TEL1": 943899447,
     "TFAX": null,
     "EMAIL": "012985aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://azkoitiabhi.hezkuntza.net",
     "COOR_X": 556355.56317381,
     "COOR_Y": 4780220.909858229
   },
@@ -2131,7 +2107,7 @@ export const centros=[
     "TEL1": 943899478,
     "TFAX": null,
     "EMAIL": "013006aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://arrasatebhi.hezkuntza.net",
     "COOR_X": 542505.711160655,
     "COOR_Y": 4768793.525869192
   },
@@ -2323,7 +2299,7 @@ export const centros=[
     "TEL1": 943899490,
     "TFAX": 943899491,
     "EMAIL": "013025aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.usandizaga.com/",
     "COOR_X": 582874.783884851,
     "COOR_Y": 4795407.068759503
   },
@@ -2371,7 +2347,7 @@ export const centros=[
     "TEL1": 943899304,
     "TFAX": 943899305,
     "EMAIL": "013085aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.antigua-luberri.net/",
     "COOR_X": 580497.168894684,
     "COOR_Y": 4795599.32962536
   },
@@ -2395,7 +2371,7 @@ export const centros=[
     "TEL1": 943797900,
     "TFAX": 943770955,
     "EMAIL": "013255aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ale-aretxabaleta.eus/",
     "COOR_X": 539863.841598332,
     "COOR_Y": 4764015.058512403
   },
@@ -2419,7 +2395,7 @@ export const centros=[
     "TEL1": 943523804,
     "TFAX": 943525462,
     "EMAIL": "oiartzo@ikastola.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.oiartzoikastola.eus/",
     "COOR_X": 589281.648231841,
     "COOR_Y": 4793647.496915263
   },
@@ -2443,7 +2419,7 @@ export const centros=[
     "TEL1": 943111000,
     "TFAX": 943110990,
     "EMAIL": "idazkaria@oteitzalp.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.oteitzalp.org/",
     "COOR_X": 567084.923838321,
     "COOR_Y": 4792865.506087235
   },
@@ -2467,7 +2443,7 @@ export const centros=[
     "TEL1": 943899316,
     "TFAX": 943899317,
     "EMAIL": "013431aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.elgoibarbhi.hezkuntza.net/",
     "COOR_X": 547660.171938427,
     "COOR_Y": 4784740.999806991
   },
@@ -2539,7 +2515,7 @@ export const centros=[
     "TEL1": 943899330,
     "TFAX": 943899331,
     "EMAIL": "013461aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://beasainbhi.hezkuntza.net/es/",
     "COOR_X": 565596.219109112,
     "COOR_Y": 4766128.318364472
   },
@@ -2563,7 +2539,7 @@ export const centros=[
     "TEL1": 943610610,
     "TFAX": 943626579,
     "EMAIL": "direccion@apmendibil.eus",
-    "PAGINA": " ",
+    "PAGINA": "http://www.mendibilformacion.com/",
     "COOR_X": 596125.872160292,
     "COOR_Y": 4798896.948404594
   },
@@ -2587,7 +2563,7 @@ export const centros=[
     "TEL1": 943569222,
     "TFAX": 0,
     "EMAIL": "013532aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.ehige.eus/es/centros/cifp-de-des-sostenible-en-edif-inteligente-lhii-eagi-lhii/",
     "COOR_X": 579625.030681024,
     "COOR_Y": 4791500.084014949
   },
@@ -2611,7 +2587,7 @@ export const centros=[
     "TEL1": 943607137,
     "TFAX": 0,
     "EMAIL": "013533aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://kardala.eus/",
     "COOR_X": 550139.81276007,
     "COOR_Y": 4795116.737855519
   },
@@ -2635,7 +2611,7 @@ export const centros=[
     "TEL1": 943551958,
     "TFAX": 943330550,
     "EMAIL": "013534aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.hernanilanh.eus/",
     "COOR_X": 583298.158514388,
     "COOR_Y": 4791290.64664532
   },
@@ -2659,7 +2635,7 @@ export const centros=[
     "TEL1": 943676161,
     "TFAX": 943697060,
     "EMAIL": "cpfpb-tolosa@grupopenascal.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.xn--peascaltolosa-jkb.com/",
     "COOR_X": 574846.819532636,
     "COOR_Y": 4775106.160950579
   },
@@ -2683,7 +2659,7 @@ export const centros=[
     "TEL1": 943460145,
     "TFAX": 0,
     "EMAIL": "info@fpmartutene.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.mle.eus/",
     "COOR_X": 585419.608105654,
     "COOR_Y": 4794825.737087884
   },
@@ -2707,7 +2683,7 @@ export const centros=[
     "TEL1": 943880062,
     "TFAX": 0,
     "EMAIL": "bulegoa@goierrieskola.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.goierrieskola.eus/",
     "COOR_X": 566562.376439436,
     "COOR_Y": 4766318.739604779
   },
@@ -2731,7 +2707,7 @@ export const centros=[
     "TEL1": 943000795,
     "TFAX": 0,
     "EMAIL": "formakuntza@gureak.com ",
-    "PAGINA": " ",
+    "PAGINA": "http://www.gureak.com ",
     "COOR_X": 579542.184683381,
     "COOR_Y": 4795334.513527911
   },
@@ -2755,7 +2731,7 @@ export const centros=[
     "TEL1": 943899492,
     "TFAX": 943899493,
     "EMAIL": "013554aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://oriarte.hezkuntza.net/eu/inicio",
     "COOR_X": 579867.697632812,
     "COOR_Y": 4791190.157099676
   },
@@ -2779,7 +2755,7 @@ export const centros=[
     "TEL1": 943899335,
     "TFAX": 943899336,
     "EMAIL": "013555aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://urolabhi.hezkuntza.net/es/lanbide-heziketa",
     "COOR_X": 559543.456053728,
     "COOR_Y": 4781079.605073301
   },
@@ -2803,7 +2779,7 @@ export const centros=[
     "TEL1": 943852174,
     "TFAX": null,
     "EMAIL": "013556aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.izarraitz.eus/",
     "COOR_X": 556222.038217124,
     "COOR_Y": 4780318.260042881
   },
@@ -2827,7 +2803,7 @@ export const centros=[
     "TEL1": 943111000,
     "TFAX": null,
     "EMAIL": "idazkaria@oteitzalp.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.oteitzalp.org/",
     "COOR_X": 567084.923838321,
     "COOR_Y": 4792865.506087235
   },
@@ -2851,7 +2827,7 @@ export const centros=[
     "TEL1": 943725477,
     "TFAX": null,
     "EMAIL": "dtor.ugle@ugleskola.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ugleskola.eus/",
     "COOR_X": 556173.29703149,
     "COOR_Y": 4770944.038138639
   },
@@ -2875,7 +2851,7 @@ export const centros=[
     "TEL1": 943326666,
     "TFAX": null,
     "EMAIL": "nazaret@nazaret.eus",
-    "PAGINA": " ",
+    "PAGINA": "https://nazaret.eus/es",
     "COOR_X": 583372.733930201,
     "COOR_Y": 4796857.503527701
   },
@@ -2899,7 +2875,7 @@ export const centros=[
     "TEL1": 943551789,
     "TFAX": null,
     "EMAIL": "salesiarrak@salesianosurnieta.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.magaleikastetxea.eus/",
     "COOR_X": 581599.118788875,
     "COOR_Y": 4788173.831064117
   },
@@ -2923,7 +2899,7 @@ export const centros=[
     "TEL1": 943899262,
     "TFAX": 943899263,
     "EMAIL": "013597aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://eibarbhi.hezkuntza.net",
     "COOR_X": 543193.447558323,
     "COOR_Y": 4781718.165096255
   },
@@ -2947,7 +2923,7 @@ export const centros=[
     "TEL1": 945567951,
     "TFAX": null,
     "EMAIL": "013613aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.birt.eus/",
     "COOR_X": 579625.030681024,
     "COOR_Y": 4791500.084014949
   },
@@ -2971,7 +2947,7 @@ export const centros=[
     "TEL1": 944288035,
     "TFAX": 946360429,
     "EMAIL": "014010aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://iesdoloresibarruri.es/",
     "COOR_X": 493920.437950653,
     "COOR_Y": 4796007.856470903
   },
@@ -3043,7 +3019,7 @@ export const centros=[
     "TEL1": 944288040,
     "TFAX": 944780354,
     "EMAIL": "014066aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.beurkobhi.com/",
     "COOR_X": 500149.241535914,
     "COOR_Y": 4794065.781774589
   },
@@ -3067,7 +3043,7 @@ export const centros=[
     "TEL1": 944287813,
     "TFAX": 944287840,
     "EMAIL": "014068aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.iesminas.net/es/",
     "COOR_X": 500229.283946496,
     "COOR_Y": 4794011.602802564
   },
@@ -3115,7 +3091,7 @@ export const centros=[
     "TEL1": 944492996,
     "TFAX": 944263852,
     "EMAIL": "014086aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://urbibhi.urbibas.org/",
     "COOR_X": 509879.684130713,
     "COOR_Y": 4786991.55171366
   },
@@ -3187,7 +3163,7 @@ export const centros=[
     "TEL1": 944457388,
     "TFAX": 944464225,
     "EMAIL": "014186aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://botikazar.hezkuntza.net/es/inicio",
     "COOR_X": 504863.349490744,
     "COOR_Y": 4790819.242598251
   },
@@ -3211,7 +3187,7 @@ export const centros=[
     "TEL1": 944280110,
     "TFAX": 944280111,
     "EMAIL": "014187aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://martindebertendona.hezkuntza.net/es/",
     "COOR_X": 505540.959991616,
     "COOR_Y": 4789724.805367784
   },
@@ -3403,7 +3379,7 @@ export const centros=[
     "TEL1": 944288008,
     "TFAX": 944288009,
     "EMAIL": "014278aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.institutoelexalde.com/",
     "COOR_X": 513533.0466753,
     "COOR_Y": 4786914.427412089
   },
@@ -3499,7 +3475,7 @@ export const centros=[
     "TEL1": 944287817,
     "TFAX": 944287818,
     "EMAIL": "014320aa@hezkuntza.net",
-    "PAGINA": "http://www.gernikabhi.com",
+    "PAGINA": "https://gernikabhi.hezkuntza.net/eu/inicio1",
     "COOR_X": 526035.346321905,
     "COOR_Y": 4796353.536108811
   },
@@ -3571,7 +3547,7 @@ export const centros=[
     "TEL1": 944287819,
     "TFAX": 944287828,
     "EMAIL": "014398aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://sites.google.com/zunzuneguibhi.com/home",
     "COOR_X": 497609.686409616,
     "COOR_Y": 4796339.968870384
   },
@@ -3619,7 +3595,7 @@ export const centros=[
     "TEL1": 944280122,
     "TFAX": 944280123,
     "EMAIL": "014440aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.angelafiguerainstitutua.com/",
     "COOR_X": 499804.474540052,
     "COOR_Y": 4794899.45208341
   },
@@ -3667,7 +3643,7 @@ export const centros=[
     "TEL1": 944287930,
     "TFAX": 944287933,
     "EMAIL": "014451aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://sites.google.com/a/iesbalmasedabhi.com/balmasedabhi/",
     "COOR_X": 484424.028908665,
     "COOR_Y": 4782218.423270151
   },
@@ -3691,7 +3667,7 @@ export const centros=[
     "TEL1": 944287934,
     "TFAX": 944287935,
     "EMAIL": "014456aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.arratiabhi.hezkuntza.net/web/guest/hasiera",
     "COOR_X": 517945.068124344,
     "COOR_Y": 4778627.874116047
   },
@@ -3720,30 +3696,6 @@ export const centros=[
     "COOR_Y": 4793155.087143849
   },
   {
-    "CCEN": 14597,
-    "NOM": "SAN JOSE",
-    "NOME": "SAN JOSE",
-    "DGENRC": "CPEPS",
-    "DGENRE": "LBHIP",
-    "GENR": "31F0",
-    "MUNI": 15,
-    "DMUNIC": "BASAURI",
-    "DMUNIE": "BASAURI",
-    "DTERRC": "BIZKAIA / VIZCAYA",
-    "DTERRE": "BIZKAIA / VIZCAYA",
-    "DEPE": "33",
-    "DTITUC": "PRIVADA",
-    "DTITUE": "PRIBATUA",
-    "DOMI": "NAFARROA 18",
-    "CPOS": 48970,
-    "TEL1": 944491644,
-    "TFAX": 944261962,
-    "EMAIL": "csj35bas@planalfa.es",
-    "PAGINA": " ",
-    "COOR_X": 509170.788896582,
-    "COOR_Y": 4787179.683419995
-  },
-  {
     "CCEN": 14601,
     "NOM": "NÁUTICO PESQUERA/NAUTIKA ETA ARRANTZAKO",
     "NOME": "NÁUTICO PESQUERA/NAUTIKA ETA ARRANTZAKO",
@@ -3763,7 +3715,7 @@ export const centros=[
     "TEL1": 946881862,
     "TFAX": 946880052,
     "EMAIL": "014601aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.nautikaeskola.com/",
     "COOR_X": 522591.147863732,
     "COOR_Y": 4807675.911472051
   },
@@ -3787,7 +3739,7 @@ export const centros=[
     "TEL1": 944232089,
     "TFAX": 944223767,
     "EMAIL": "c.estudios.almi@gmail.com",
-    "PAGINA": " ",
+    "PAGINA": "http://almi.eus/",
     "COOR_X": 504161.487961797,
     "COOR_Y": 4791001.105580567
   },
@@ -3811,7 +3763,7 @@ export const centros=[
     "TEL1": 944230033,
     "TFAX": 944243808,
     "EMAIL": "centroeducativo@arangoya.org",
-    "PAGINA": " ",
+    "PAGINA": "https://arangoya.org/",
     "COOR_X": 505418.62464564,
     "COOR_Y": 4790125.763753864
   },
@@ -3835,7 +3787,7 @@ export const centros=[
     "TEL1": 944150193,
     "TFAX": 0,
     "EMAIL": "direccion@centroarce.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.centroarce.com/",
     "COOR_X": 506037.656668633,
     "COOR_Y": 4789451.980900415
   },
@@ -3859,7 +3811,7 @@ export const centros=[
     "TEL1": 944162018,
     "TFAX": 944161897,
     "EMAIL": "info@centroarmengol.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.centroarmengol.com/",
     "COOR_X": 505891.729962126,
     "COOR_Y": 4789560.868736611
   },
@@ -3883,7 +3835,7 @@ export const centros=[
     "TEL1": 944157298,
     "TFAX": 944157298,
     "EMAIL": "ceinmark@ceinmark.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ceinmark.com/",
     "COOR_X": 506481.274845916,
     "COOR_Y": 4789476.695869754
   },
@@ -3907,7 +3859,7 @@ export const centros=[
     "TEL1": 944247614,
     "TFAX": 944247615,
     "EMAIL": "escuelacrb@cruzroja.es",
-    "PAGINA": " ",
+    "PAGINA": "https://www2.cruzroja.es/",
     "COOR_X": 505945.15478732,
     "COOR_Y": 4789693.021837229
   },
@@ -3979,7 +3931,7 @@ export const centros=[
     "TEL1": 944157613,
     "TFAX": 946791015,
     "EMAIL": "centrofernando@centrofernando.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.centrofernando.com/",
     "COOR_X": 506723.290376005,
     "COOR_Y": 4789344.752726399
   },
@@ -4003,7 +3955,7 @@ export const centros=[
     "TEL1": 944153400,
     "TFAX": 944153822,
     "EMAIL": "centro@centrolarrinaga.com",
-    "PAGINA": " ",
+    "PAGINA": "https://centrolarrinaga.com/",
     "COOR_X": 505664.111676178,
     "COOR_Y": 4789651.260337662
   },
@@ -4099,7 +4051,7 @@ export const centros=[
     "TEL1": 944271818,
     "TFAX": 944396098,
     "EMAIL": "secretaria@indautxujesuitak.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.indautxujesuitak.org/",
     "COOR_X": 504645.246909114,
     "COOR_Y": 4789809.578112536
   },
@@ -4147,7 +4099,7 @@ export const centros=[
     "TEL1": 944395062,
     "TFAX": 944395219,
     "EMAIL": "secretaria@centrosanluis.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.centrosanluis.com/",
     "COOR_X": 504922.406227592,
     "COOR_Y": 4789874.544888737
   },
@@ -4171,7 +4123,7 @@ export const centros=[
     "TEL1": 944450650,
     "TFAX": 944463484,
     "EMAIL": "direccion@colegioartagan.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.colegioartagan.net/",
     "COOR_X": 507187.077888437,
     "COOR_Y": 4789673.365838151
   },
@@ -4195,7 +4147,7 @@ export const centros=[
     "TEL1": 944163195,
     "TFAX": 944153855,
     "EMAIL": "info@zabalburu.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.zabalburu.org/",
     "COOR_X": 506302.669858464,
     "COOR_Y": 4789823.045371315
   },
@@ -4267,7 +4219,7 @@ export const centros=[
     "TEL1": 946820056,
     "TFAX": 946231695,
     "EMAIL": "lourdeskoama@hotmail.com",
-    "PAGINA": " ",
+    "PAGINA": "https://lourdeskoama.eus/",
     "COOR_X": 537770.732973912,
     "COOR_Y": 4775863.046888634
   },
@@ -4291,7 +4243,7 @@ export const centros=[
     "TEL1": 944636507,
     "TFAX": 944636507,
     "EMAIL": "ibaiondo@ibaiondo.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ibaiondo.net/",
     "COOR_X": 499081.107849181,
     "COOR_Y": 4796830.708981653
   },
@@ -4315,7 +4267,7 @@ export const centros=[
     "TEL1": 944636658,
     "TFAX": 944802152,
     "EMAIL": "secretaria@st-georgeit.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.fpsanturtzilh.eus/",
     "COOR_X": 500677.981563865,
     "COOR_Y": 4797398.433422985
   },
@@ -4368,30 +4320,6 @@ export const centros=[
     "COOR_Y": 4796565.66293101
   },
   {
-    "CCEN": 14781,
-    "NOM": "NTRA. SRA. DE LA ANTIGUA",
-    "NOME": "NTRA. SRA. DE LA ANTIGUA",
-    "DGENRC": "CPES",
-    "DGENRE": "BHIP",
-    "GENR": "31D0",
-    "MUNI": 73,
-    "DMUNIC": "ONDARROA",
-    "DMUNIE": "ONDARROA",
-    "DTERRC": "BIZKAIA / VIZCAYA",
-    "DTERRE": "BIZKAIA / VIZCAYA",
-    "DEPE": "33",
-    "DTITUC": "PRIVADA",
-    "DTITUE": "PRIBATUA",
-    "DOMI": "IÑAKI DEUNA 19",
-    "CPOS": 48700,
-    "TEL1": 946830206,
-    "TFAX": 946830206,
-    "EMAIL": "arrantzaes@euskalnet.net",
-    "PAGINA": " ",
-    "COOR_X": 546611.292298126,
-    "COOR_Y": 4796505.175243104
-  },
-  {
     "CCEN": 14797,
     "NOM": "XABIER",
     "NOME": "XABIER",
@@ -4411,7 +4339,7 @@ export const centros=[
     "TEL1": 944963411,
     "TFAX": 944963411,
     "EMAIL": "secretaria@centroxabier.es",
-    "PAGINA": " ",
+    "PAGINA": "http://www.centroxabier.es/",
     "COOR_X": 498559.467493168,
     "COOR_Y": 4796282.220624872
   },
@@ -4435,7 +4363,7 @@ export const centros=[
     "TEL1": 944613519,
     "TFAX": 944937006,
     "EMAIL": "secretaria@sjcalasanz.com",
-    "PAGINA": " ",
+    "PAGINA": "https://calasanz.eus/",
     "COOR_X": 496983.653664816,
     "COOR_Y": 4797255.382540578
   },
@@ -4531,7 +4459,7 @@ export const centros=[
     "TEL1": 944531405,
     "TFAX": 944710492,
     "EMAIL": "secretaria@munabe.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.munabe.com/",
     "COOR_X": 507509.366712748,
     "COOR_Y": 4796864.042196774
   },
@@ -4555,7 +4483,7 @@ export const centros=[
     "TEL1": 944835677,
     "TFAX": 944836989,
     "EMAIL": "014928aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ballontibhi.net/",
     "COOR_X": 497761.558369861,
     "COOR_Y": 4795753.848173556
   },
@@ -4579,7 +4507,7 @@ export const centros=[
     "TEL1": 944013840,
     "TFAX": 944013849,
     "EMAIL": "014945aa@hezkuntza.net",
-    "PAGINA": "http://www.construccionBIZKAIA / VIZCAYA.com",
+    "PAGINA": "https://www.construccionbizkaia.com/",
     "COOR_X": 506731.849562385,
     "COOR_Y": 4787491.639922151
   },
@@ -4651,7 +4579,7 @@ export const centros=[
     "TEL1": 944287829,
     "TFAX": 944287830,
     "EMAIL": "015021aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.barrutialde.eus/",
     "COOR_X": 527062.877471324,
     "COOR_Y": 4796884.068120555
   },
@@ -4675,7 +4603,7 @@ export const centros=[
     "TEL1": 944700704,
     "TFAX": 944700792,
     "EMAIL": "cpes-bhip@grupopenascal.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.grupopenascal.com/formacion-profesional/",
     "COOR_X": 507512.310479162,
     "COOR_Y": 4788333.828497103
   },
@@ -4699,7 +4627,7 @@ export const centros=[
     "TEL1": 944287969,
     "TFAX": null,
     "EMAIL": "015071aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.iesabadinobhi.com/",
     "COOR_X": 531524.299773546,
     "COOR_Y": 4779408.305261545
   },
@@ -4747,7 +4675,7 @@ export const centros=[
     "TEL1": 944287976,
     "TFAX": 944287977,
     "EMAIL": "015073aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.berrizbhi.com/",
     "COOR_X": 534432.040093507,
     "COOR_Y": 4780329.047847054
   },
@@ -4795,7 +4723,7 @@ export const centros=[
     "TEL1": 944288025,
     "TFAX": 944288026,
     "EMAIL": "015075aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://luisbrinasbhi.hezkuntza.net/es/inicio1",
     "COOR_X": 507264.869183526,
     "COOR_Y": 4788715.470814913
   },
@@ -4819,7 +4747,7 @@ export const centros=[
     "TEL1": 944280134,
     "TFAX": 944280135,
     "EMAIL": "015077aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.solokoetxebhi.net/",
     "COOR_X": 506446.996871178,
     "COOR_Y": 4789377.25611043
   },
@@ -4843,7 +4771,7 @@ export const centros=[
     "TEL1": 944280136,
     "TFAX": 944280137,
     "EMAIL": "015078aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.zorrotzabhi.net/",
     "COOR_X": 502406.021923767,
     "COOR_Y": 4791377.358995272
   },
@@ -4867,7 +4795,7 @@ export const centros=[
     "TEL1": 944287831,
     "TFAX": 944287832,
     "EMAIL": "015080aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.ieskarrantzabhi.net/",
     "COOR_X": 470989.107780487,
     "COOR_Y": 4785584.208174367
   },
@@ -4891,7 +4819,7 @@ export const centros=[
     "TEL1": 944280138,
     "TFAX": 944280139,
     "EMAIL": "015082aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://elorrio.hezkuntza.net/es/",
     "COOR_X": 537028.450316225,
     "COOR_Y": 4774992.154156331
   },
@@ -4915,7 +4843,7 @@ export const centros=[
     "TEL1": 944288031,
     "TFAX": 944288032,
     "EMAIL": "015083aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://sites.google.com/iesastrabuduabhi.net/astrabudua-bhi-ies/orri-nagusia",
     "COOR_X": 501778.966694274,
     "COOR_Y": 4795858.166939774
   },
@@ -4939,7 +4867,7 @@ export const centros=[
     "TEL1": 944671513,
     "TFAX": 944670936,
     "EMAIL": "015084aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.erandiobhi.com/",
     "COOR_X": 502350.090361907,
     "COOR_Y": 4793958.56359854
   },
@@ -4963,7 +4891,7 @@ export const centros=[
     "TEL1": 944287992,
     "TFAX": 944287993,
     "EMAIL": "015087aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.etxebarribhi.org/",
     "COOR_X": 509309.096442959,
     "COOR_Y": 4788985.415868377
   },
@@ -5011,7 +4939,7 @@ export const centros=[
     "TEL1": 944288000,
     "TFAX": 946216040,
     "EMAIL": "015090aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.orobiogoitiabhi.hezkuntza.net/web/guest",
     "COOR_X": 529686.350555023,
     "COOR_Y": 4780511.330743898
   },
@@ -5083,7 +5011,7 @@ export const centros=[
     "TEL1": 944287834,
     "TFAX": 944287834,
     "EMAIL": "015093aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ortuellabhi.eus/",
     "COOR_X": 495972.086469954,
     "COOR_Y": 4794977.526191651
   },
@@ -5131,7 +5059,7 @@ export const centros=[
     "TEL1": 944287814,
     "TFAX": null,
     "EMAIL": "015095aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ieszallabhi.eus/es/",
     "COOR_X": 489130.995962334,
     "COOR_Y": 4784741.609682853
   },
@@ -5155,7 +5083,7 @@ export const centros=[
     "TEL1": 944288066,
     "TFAX": 944287843,
     "EMAIL": "015106aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.arozenabarrueta.net/",
     "COOR_X": 521851.957397657,
     "COOR_Y": 4807959.953656085
   },
@@ -5179,7 +5107,7 @@ export const centros=[
     "TEL1": 944287847,
     "TFAX": null,
     "EMAIL": "015108aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://mungia.hezkuntza.net/es/",
     "COOR_X": 512797.888427085,
     "COOR_Y": 4799945.255024813
   },
@@ -5275,7 +5203,7 @@ export const centros=[
     "TEL1": 944287856,
     "TFAX": 946770850,
     "EMAIL": "015143aa@hezkuntza.net",
-    "PAGINA": "http://www.uribekostabhi.org",
+    "PAGINA": "https://www.uribekostabhi.com/",
     "COOR_X": 504136.371120071,
     "COOR_Y": 4805268.601473039
   },
@@ -5299,7 +5227,7 @@ export const centros=[
     "TEL1": 944560458,
     "TFAX": 944561413,
     "EMAIL": "015176aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.hosteleriagaldakao.com/",
     "COOR_X": 511661.429674515,
     "COOR_Y": 4786746.641564413
   },
@@ -5395,7 +5323,7 @@ export const centros=[
     "TEL1": 944794520,
     "TFAX": 944794521,
     "EMAIL": "info@juritecnia.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.juritecnia.net/",
     "COOR_X": 506247.983419093,
     "COOR_Y": 4789668.966733577
   },
@@ -5419,7 +5347,7 @@ export const centros=[
     "TEL1": 946215877,
     "TFAX": 946218242,
     "EMAIL": "idazkaritza@ibaizabalikastola.eus",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ibaizabalikastola.eus/",
     "COOR_X": 530035.380652386,
     "COOR_Y": 4778779.263301216
   },
@@ -5443,7 +5371,7 @@ export const centros=[
     "TEL1": 944393498,
     "TFAX": 944393583,
     "EMAIL": "gremiopasteleria@gmail.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.gremiopasteleriabizkaia.com/escuela-profesional-de-pasteleria-y-comercio-de-bizkaia/",
     "COOR_X": 503544.641087543,
     "COOR_Y": 4788998.953112911
   },
@@ -5491,7 +5419,7 @@ export const centros=[
     "TEL1": 944780388,
     "TFAX": 944780388,
     "EMAIL": "webmaster@meatze.es",
-    "PAGINA": " ",
+    "PAGINA": "https://www.meatze.eus/",
     "COOR_X": 500533.423667511,
     "COOR_Y": 4793969.491374223
   },
@@ -5515,7 +5443,7 @@ export const centros=[
     "TEL1": 944724366,
     "TFAX": 944721731,
     "EMAIL": "harrobia@ikastola.net",
-    "PAGINA": " ",
+    "PAGINA": "https://harrobia.net/es/",
     "COOR_X": 505775.801637168,
     "COOR_Y": 4789106.131297101
   },
@@ -5539,7 +5467,7 @@ export const centros=[
     "TEL1": 946817325,
     "TFAX": 946810258,
     "EMAIL": "015307aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://frayjuandezumarraga-durangobhi.hezkuntza.net/eu/",
     "COOR_X": 529472.008078391,
     "COOR_Y": 4779964.781992315
   },
@@ -5587,7 +5515,7 @@ export const centros=[
     "TEL1": 944731444,
     "TFAX": 944598075,
     "EMAIL": "bagabiltza@bagabiltza.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.bagabiltza.com/",
     "COOR_X": 508053.039964719,
     "COOR_Y": 4789223.057497111
   },
@@ -5612,7 +5540,7 @@ export const centros=[
     "TEL1": 944731444,
     "TFAX": 944598075,
     "EMAIL": "bagabiltza@bagabiltza.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.bagabiltza.com/",
     "COOR_X": 488345.348409495,
     "COOR_Y": 4783448.292933738
   },
@@ -5636,7 +5564,7 @@ export const centros=[
     "TEL1": 944731444,
     "TFAX": 944598075,
     "EMAIL": "bagabiltza@bagabiltza.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.bagabiltza.com/",
     "COOR_X": 500079.663101744,
     "COOR_Y": 4795002.111187446
   },
@@ -5660,33 +5588,9 @@ export const centros=[
     "TEL1": 944378179,
     "TFAX": 944389556,
     "EMAIL": "ikasauto@ikasauto.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ikasauto.com/",
     "COOR_X": 500072.472725518,
     "COOR_Y": 4794193.605756388
-  },
-  {
-    "CCEN": 15476,
-    "NOM": "BAGABILTZA",
-    "NOME": "BAGABILTZA",
-    "DGENRC": "CPES",
-    "DGENRE": "BHIP",
-    "GENR": "31D0",
-    "MUNI": 90,
-    "DMUNIC": "BALMASEDA",
-    "DMUNIE": "BALMASEDA",
-    "DTERRC": "BIZKAIA / VIZCAYA",
-    "DTERRE": "BIZKAIA / VIZCAYA",
-    "DEPE": "31",
-    "DTITUC": "PRIVADA",
-    "DTITUE": "PRIBATUA",
-    "DOMI": "CORRERIAS 62",
-    "CPOS": 48800,
-    "TEL1": 944731444,
-    "TFAX": 944598075,
-    "EMAIL": "bagabiltza@bagabiltza.com",
-    "PAGINA": " ",
-    "COOR_X": 484093.17265213,
-    "COOR_Y": 4782379.160552542
   },
   {
     "CCEN": 15623,
@@ -5708,7 +5612,7 @@ export const centros=[
     "TEL1": 944287870,
     "TFAX": 944287873,
     "EMAIL": "015623aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ondarroabhi.hezkuntza.net/eu/inicio1",
     "COOR_X": 546563.16130497,
     "COOR_Y": 4796415.103576931
   },
@@ -5732,7 +5636,7 @@ export const centros=[
     "TEL1": 944287874,
     "TFAX": 944287875,
     "EMAIL": "015624aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.lekeitiobhi.net/",
     "COOR_X": 539847.440614028,
     "COOR_Y": 4801008.128679954
   },
@@ -5756,7 +5660,7 @@ export const centros=[
     "TEL1": 944280150,
     "TFAX": 944280151,
     "EMAIL": "015625aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.ieskantauri.net/",
     "COOR_X": 497294.612699064,
     "COOR_Y": 4797026.799068083
   },
@@ -5780,7 +5684,7 @@ export const centros=[
     "TEL1": 944280152,
     "TFAX": 944280153,
     "EMAIL": "015626aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://axularsanturtzi.com/",
     "COOR_X": 497162.967794878,
     "COOR_Y": 4796433.049924004
   },
@@ -5804,7 +5708,7 @@ export const centros=[
     "TEL1": 944280154,
     "TFAX": 944280155,
     "EMAIL": "015627aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://sites.google.com/urritxe.eus/urritxebhi/hasiera?pli=1",
     "COOR_X": 522285.243532037,
     "COOR_Y": 4785728.168871584
   },
@@ -5828,7 +5732,7 @@ export const centros=[
     "TEL1": 946730251,
     "TFAX": 944040731,
     "EMAIL": "015628aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://fpzornotzalh.eus/",
     "COOR_X": 522285.243532037,
     "COOR_Y": 4785728.168871584
   },
@@ -5852,7 +5756,7 @@ export const centros=[
     "TEL1": 944675261,
     "TFAX": 944675650,
     "EMAIL": "015629aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ategorri.hezkuntza.net/es/",
     "COOR_X": 502092.432465188,
     "COOR_Y": 4794790.834192268
   },
@@ -5876,7 +5780,7 @@ export const centros=[
     "TEL1": 944675311,
     "TFAX": 944675004,
     "EMAIL": "015630aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.tartanga.eus/",
     "COOR_X": 502108.63554923,
     "COOR_Y": 4794940.613705081
   },
@@ -5900,7 +5804,7 @@ export const centros=[
     "TEL1": 944955903,
     "TFAX": 944955919,
     "EMAIL": "015666aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.cifprepelega.net/",
     "COOR_X": 498374.719351715,
     "COOR_Y": 4795521.86539298
   },
@@ -5948,7 +5852,7 @@ export const centros=[
     "TEL1": 944125712,
     "TFAX": 944731359,
     "EMAIL": "015763aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.fptxurdinaga.eus/",
     "COOR_X": 507888.057112044,
     "COOR_Y": 4789446.142088888
   },
@@ -5972,33 +5876,9 @@ export const centros=[
     "TEL1": 944280156,
     "TFAX": 944280157,
     "EMAIL": "015764aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "http://artabe.eus/",
     "COOR_X": 507872.983708671,
     "COOR_Y": 4789303.251173921
-  },
-  {
-    "CCEN": 15769,
-    "NOM": "GRUPO ALBOR COHS",
-    "NOME": "GRUPO ALBOR COHS",
-    "DGENRC": "CPES",
-    "DGENRE": "BHIP",
-    "GENR": "31D0",
-    "MUNI": 20,
-    "DMUNIC": "BILBAO",
-    "DMUNIE": "BILBAO",
-    "DTERRC": "BIZKAIA / VIZCAYA",
-    "DTERRE": "BIZKAIA / VIZCAYA",
-    "DEPE": "31",
-    "DTITUC": "PRIVADA",
-    "DTITUE": "PRIBATUA",
-    "DOMI": "TIBOLI 2",
-    "CPOS": 48007,
-    "TEL1": 944820094,
-    "TFAX": 944820271,
-    "EMAIL": "investigacion@calvida.com",
-    "PAGINA": " ",
-    "COOR_X": 506046.290067611,
-    "COOR_Y": 4790343.68939573
   },
   {
     "CCEN": 15774,
@@ -6020,7 +5900,7 @@ export const centros=[
     "TEL1": 944898008,
     "TFAX": 0,
     "EMAIL": "escuela.hospBIZKAIA / VIZCAYA@quiron.es",
-    "PAGINA": " ",
+    "PAGINA": "https://www.quironsalud.es/bizkaia",
     "COOR_X": 503764.722671804,
     "COOR_Y": 4797405.392006585
   },
@@ -6044,7 +5924,7 @@ export const centros=[
     "TEL1": 943254525,
     "TFAX": 943179054,
     "EMAIL": "015779aa@hezkuntza.net",
-    "PAGINA": " ",
+    "PAGINA": "https://ermuabhi.hezkuntza.net/es/home",
     "COOR_X": 540297.053520114,
     "COOR_Y": 4781929.23213417
   },
@@ -6068,7 +5948,7 @@ export const centros=[
     "TEL1": 946169652,
     "TFAX": 0,
     "EMAIL": "info@grupopenascal.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.grupopenascal.com/",
     "COOR_X": 539104.786893348,
     "COOR_Y": 4790370.743888865
   },
@@ -6092,7 +5972,7 @@ export const centros=[
     "TEL1": 946810058,
     "TFAX": null,
     "EMAIL": "info@maristak.com",
-    "PAGINA": " ",
+    "PAGINA": "http://www.maristak.com/",
     "COOR_X": 529711.582838568,
     "COOR_Y": 4779848.215719043
   },
@@ -6116,7 +5996,7 @@ export const centros=[
     "TEL1": 944034060,
     "TFAX": null,
     "EMAIL": "info@txorierri.net",
-    "PAGINA": " ",
+    "PAGINA": "http://www.politeknikatxorierri.eus/",
     "COOR_X": 509707.601606099,
     "COOR_Y": 4793498.707200981
   },
@@ -6140,7 +6020,7 @@ export const centros=[
     "TEL1": 944163195,
     "TFAX": null,
     "EMAIL": "info@zabalburu.org",
-    "PAGINA": " ",
+    "PAGINA": "https://www.zabalburu.org/",
     "COOR_X": 506302.669858464,
     "COOR_Y": 4789823.045371315
   },
@@ -6164,7 +6044,7 @@ export const centros=[
     "TEL1": 944124992,
     "TFAX": null,
     "EMAIL": "info@otxarkoaga.net",
-    "PAGINA": " ",
+    "PAGINA": "https://www.otxarkoaga.org/",
     "COOR_X": 508594.56105133,
     "COOR_Y": 4789791.351822445
   },
@@ -6188,7 +6068,7 @@ export const centros=[
     "TEL1": 946706045,
     "TFAX": null,
     "EMAIL": "cfs@somorrostro.com",
-    "PAGINA": " ",
+    "PAGINA": "https://www.somorrostro.com/",
     "COOR_X": 489972.08857222,
     "COOR_Y": 4796565.66293101
   },
@@ -6212,7 +6092,7 @@ export const centros=[
     "TEL1": 944678105,
     "TFAX": null,
     "EMAIL": "administracion@osotulanbarri.org",
-    "PAGINA": " ",
+    "PAGINA": "http://www.osotu.org/",
     "COOR_X": 493240.642301043,
     "COOR_Y": 4783635.334861894
   }
